@@ -1,5 +1,5 @@
 # CompromisedAccountDetection
-The contribution and the final research paper is published by Springer in DAIS 2018 Book (DOI: 10.1007/978-3-319-93767-0_2).  This application was developed in the context of the [Social Media Mining seminar](https://hpi.de/studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/course/0/wintersemester-20172018-social-media-mining.html) at Hasso-Plattner Institute. It aims to detect tweets in the timeline of a given user, which are suspicious in order to tell if the account was compromised.   
+The contribution and the final research paper is published by Springer in DAIS 2018 Book (DOI: 10.1007/978-3-319-93767-0_2) (https://www.researchgate.net/publication/325468206_Malicious_Behaviour_Identification_in_Online_Social_Networks).  This application was developed in the context of the [Social Media Mining seminar](https://hpi.de/studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/course/0/wintersemester-20172018-social-media-mining.html) at Hasso-Plattner Institute. It aims to detect tweets in the timeline of a given user, which are suspicious in order to tell if the account was compromised.   
 
 ## Setup
 ### Docker
